@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
-      title: 'OpenVpn Demo',
+      title: 'Open Demo',
       home: SplashScreen(),
 
       //theme
