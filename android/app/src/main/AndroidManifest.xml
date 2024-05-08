@@ -11,7 +11,7 @@
     
     <application
         android:name="${applicationName}"
-        android:label="NT VPN"
+        android:label="NetVPN"
         android:icon="@mipmap/ic_launcher"
         tools:ignore="AllowBackup">
 
